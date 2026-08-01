@@ -4,9 +4,5 @@ x = {
         location = "eastus"
     }
 
- rg1 = {
-        name = "rg-dev"
-        location = "eastus"
-    }
 
 }
